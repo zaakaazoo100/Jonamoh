@@ -5,11 +5,10 @@
 	box-sizing: border-box;
 }
 .hero{
-	height: 100vh;
+	height: 120vh;
 	width: 100%;
 	background-image: url(../img/moh.jpg);
 	background-size: 400pt;
-	border-collapse: collapse;
 	background-size: cover;
 	color: black;
 
